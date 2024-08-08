@@ -1,0 +1,443 @@
+<!DOCTYPE html>
+<html lang="vi">
+  <head>
+    <meta http-equiv="content-type" content="text/html; charset=utf-8">
+    <meta name="googlebot" content="index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1">
+    <meta name="bingbot" content="index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1">
+    <title>Phụ kiện lò quay heo giá tốt, chất lượng</title>
+    <meta name="description" content="Khám phá các phụ kiện lò quay heo cần thiết cho món heo quay hoàn hảo. Mua ngay phụ kiện chính hãng, giá tốt tại Máy Phú Thịnh để nâng cao chất lượng món ăn.">
+    <meta name="author" content="Phú Thịnh Machine">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="shortcut icon" type="image/x-icon" href="assets/img/favicon.ico">
+    <link rel="stylesheet" href="assets/css/bootstrap.min.css">
+    <link rel="stylesheet" href="assets/css/templatemo.css">
+    <link rel="stylesheet" href="assets/css/custom.css">
+    <!-- Load fonts style after rendering the layout styles -->
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Roboto:wght@100;200;300;400;500;700;900&amp;display=swap">
+    <link rel="stylesheet" href="assets/css/fontawesome.min.css">
+  </head>
+  <body>
+    <!-- Start Top Nav -->
+    <nav class="navbar navbar-expand-lg bg-dark navbar-light d-none d-lg-block"
+      id="templatemo_nav_top">
+      <div class="container text-light">
+        <div class="w-100 d-flex justify-content-between">
+          <div> <i class="fa fa-envelope mx-2"></i> <a class="navbar-sm-brand text-light text-decoration-none"
+              href="mailto:#">congnghemayphuthinh@gmail.com</a> <i class="fa fa-phone mx-2"></i>
+            <a class="navbar-sm-brand text-light text-decoration-none" href="tel:#">0938.23.3456</a>
+          </div>
+          <div> <a class="text-light" href="https://www.facebook.com/congnghemayphuthinh"
+              target="_blank" rel="noffolow"><i class="fab fa-facebook-f fa-sm fa-fw me-2"></i></a>
+            <a class="text-light" href="https://www.youtube.com/@congnghemayphuthinh"
+              target="_blank" rel="noffolow"><i class="fab fa-youtube fa-sm fa-fw me-2"></i></a>
+            <a class="text-light" href="#" target="_blank" rel="noffolow"><i class="fab fa-instagram fa-sm fa-fw me-2"></i></a>
+            <a class="text-light" href="https://twitter.com/mayphuthinh" target="_blank"
+              rel="noffolow"><i class="fab fa-twitter fa-sm fa-fw me-2"></i></a>
+            <a class="text-light" href="#" target="_blank" rel="noffolow"><i class="fab fa-linkedin fa-sm fa-fw"></i></a>
+          </div>
+        </div>
+      </div>
+    </nav>
+    <!-- Close Top Nav -->
+    <!-- Header -->
+    <nav class="navbar navbar-expand-lg navbar-light shadow">
+      <div class="container d-flex justify-content-between align-items-center">
+        <a class="navbar-brand text-success logo h1 align-self-center" href="index.html"><img
+            alt="Logo" src="assets/img/logo.png" width="150px"></a> <button class="navbar-toggler border-0"
+          type="button" data-bs-toggle="collapse" data-bs-target="#templatemo_main_nav"
+          aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+          <span class="navbar-toggler-icon"></span> </button>
+        <div class="align-self-center collapse navbar-collapse flex-fill  d-lg-flex justify-content-lg-between"
+          id="templatemo_main_nav">
+          <div class="flex-fill">
+            <!-- Nhớ thay nội dung header -->
+            <ul class="nav navbar-nav d-flex justify-content-between mx-lg-auto">
+              <li class="nav-item"> <a class="nav-link" href="index.html">Trang
+                  Chủ</a> </li>
+              <li class="nav-item"> <a class="nav-link" href="about.html">Giới
+                  Thiệu</a> </li>
+              <li class="nav-item"> <a class="nav-link" href="#">Cửa Hàng</a> </li>
+              <li class="nav-item"> <a class="nav-link" href="contact.html">Liên
+                  Hệ</a> </li>
+              <li class="nav-item"> <a class="nav-link" href="#">Blog</a> </li>
+            </ul>
+          </div>
+          <div class="navbar align-self-center d-flex">
+            <div class="d-lg-none flex-sm-fill mt-3 mb-4 col-7 col-sm-auto pr-3">
+              <div class="input-group"> <input class="form-control" id="inputMobileSearch"
+                  placeholder="Search ..." type="text">
+                <div class="input-group-text"> <i class="fa fa-fw fa-search"></i>
+                </div>
+              </div>
+            </div>
+            <a class="nav-icon d-none d-lg-inline" href="#" data-bs-toggle="modal"
+              data-bs-target="#templatemo_search"> <i class="fa fa-fw fa-search text-dark mr-2"></i>
+            </a> <a class="nav-icon position-relative text-decoration-none" href="#">
+              <i class="fa fa-fw fa-cart-arrow-down text-dark mr-1"></i> <span
+                class="position-absolute top-0 left-100 translate-middle badge rounded-pill bg-light text-dark">15</span>
+            </a> <a class="nav-icon position-relative text-decoration-none" href="#">
+              <i class="fa fa-fw fa-user text-dark mr-3"></i> <span class="position-absolute top-0 left-100 translate-middle badge rounded-pill bg-light text-dark">+99</span>
+            </a> </div>
+        </div>
+      </div>
+    </nav>
+    <!-- Close Header -->
+    <!-- Modal -->
+    <div class="modal fade bg-white" id="templatemo_search" tabindex="-1" role="dialog"
+      aria-labelledby="exampleModalLabel" aria-hidden="true">
+      <div class="modal-dialog modal-lg" role="document">
+        <div class="w-100 pt-1 mb-5 text-right"> <button type="button" class="btn-close"
+            data-bs-dismiss="modal" aria-label="Close"></button> </div>
+        <form action="" method="get" class="modal-content modal-body border-0 p-0">
+          <div class="input-group mb-2"> <input class="form-control" id="inputModalSearch"
+              name="q" placeholder="Search ..." type="text"> <button type="submit"
+              class="input-group-text bg-success text-light"> <i class="fa fa-fw fa-search text-white"></i>
+            </button> </div>
+        </form>
+      </div>
+    </div>
+    <!-- Start Banner Hero -->
+    <div id="template-mo-zay-hero-carousel" class="carousel slide" data-bs-ride="carousel">
+      <div class="carousel-inner">
+        <div class="carousel-item active">
+          <div class="container">
+            <div class="row p-5">
+              <div>Phú Thịnh Machine &nbsp;&nbsp;&nbsp; <i class="fa fa-calendar"></i>
+                19/07/2024 11:00 &nbsp;&nbsp;&nbsp; <i class="fa fa-eye"></i> 3
+              </div>
+              <div class="mx-auto col-md-8 col-lg-6 order-lg-last"> <img class="img-fluid"
+                  src="assets/img/phu-kien-lo-quay-heo.jpg" alt="phụ kiện lò quay thịt heo">
+              </div>
+              <div class="col-lg-6 mb-0 d-flex align-items-center">
+                <div class="text-align-left align-self-center">
+                  <h1 class="h1 text-success">Kinh nghiệm chọn mua lò quay heo
+                    phù hợp với nhu cầu</h1>
+                  <div class="text-align-left align-self-center"> <a href="phu-kien-lo-quay-heo.html"><strong>Phụ
+                        kiện lò quay heo</strong></a>&nbsp;đóng vai trò quan
+                    trọng trong việc nâng cao hiệu quả sử dụng lò, giúp món quay
+                    thơm ngon, hấp dẫn hơn. Từ việc hỗ trợ quá trình quay, vệ
+                    sinh lò đến việc nâng cao hiệu quả sử dụng, mỗi loại phụ
+                    kiện đều mang đến những tiện ích riêng, đáp ứng nhu cầu đa
+                    dạng của người dùng. </div>
+                  <div class="text-align-left align-self-center">Bài viết này sẽ
+                    giúp bạn hiểu rõ hơn về các loại phụ kiện <a href="index.html">lò
+                      quay heo phổ biến</a>, kinh nghiệm chọn mua và sử dụng
+                    hiệu quả.</div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+      <!-- End Banner Hero -->
+      <!-- Start Categories of The Month -->
+      <section class="container py-5">
+        <div class="row pt-3">
+          <div class="col-lg-6 m-auto">
+            <h2>Lợi ích khi sử dụng phụ kiện lò quay heo</h2>
+            <p><strong>Phụ kiện lò quay heo</strong>, tuy nhỏ bé nhưng lại&nbsp;<strong>góp
+                phần quan trọng</strong>&nbsp;giúp quá trình quay heo trở
+              nên&nbsp;<strong>thuận tiện</strong>,&nbsp;<strong>nhanh chóng</strong>&nbsp;và&nbsp;<strong>hiệu
+                quả</strong>&nbsp;hơn. Sử dụng&nbsp;<strong>phụ kiện lò quay heo</strong>&nbsp;mang
+              đến nhiều&nbsp;<strong>lợi ích thiết thực</strong>&nbsp;như:</p>
+            <p> </p>
+            <ul class="wp-block-list">
+              <li><strong>Tiết kiệm thời gian</strong>, công sức quay heo.</li>
+              <li><strong>Nâng cao hiệu quả</strong>&nbsp;sử dụng lò, giúp&nbsp;<strong>món
+                  ăn chín đều</strong>,&nbsp;<strong>thơm ngon</strong>&nbsp;hơn.</li>
+              <li><strong>Đảm bảo an toàn</strong>&nbsp;cho người sử dụng trong
+                quá trình quay.</li>
+              <li><strong>Giúp việc vệ sinh lò</strong>&nbsp;trở nên&nbsp;<strong>dễ
+                  dàng</strong>&nbsp;và&nbsp;<strong>nhanh chóng</strong>.</li>
+            </ul>
+            <h2 class="wp-block-heading">Các loại phụ kiện lò quay heo phổ biến</h2>
+            <p><strong>Phụ kiện lò quay heo</strong>&nbsp;được phân loại theo
+              công dụng chính như sau:</p>
+            <ul class="wp-block-list">
+              <li><strong>Phụ kiện hỗ trợ quá trình quay:</strong>&nbsp;Que
+                xiên, móc treo, giá đỡ,...</li>
+              <li><strong>Phụ kiện hỗ trợ việc vệ sinh:</strong>&nbsp;Khay hứng
+                mỡ, bàn chải, dụng cụ cạo mỡ,...</li>
+              <li><strong>Phụ kiện nâng cao hiệu quả:</strong>&nbsp;Motor quay,
+                bộ điều khiển nhiệt độ,...</li>
+            </ul>
+            <figure class="wp-block-table">
+              <table class="has-fixed-layout">
+                <tbody>
+                  <tr>
+                    <th style=" background-color: white;">Tên gọi</th>
+                    <th style=" background-color: white;">Công dụng</th>
+                    <th style=" background-color: white;">Cách sử dụng</th>
+                    <th style=" background-color: white;">Ưu điểm</th>
+                    <th style=" background-color: white;">Nhược điểm</th>
+                  </tr>
+                  <tr>
+                    <td><strong>Que xiên</strong></td>
+                    <td>Cố định heo trên lò quay, giúp heo quay đều các mặt</td>
+                    <td>Xiên que qua thân heo, cố định hai đầu trên lò quay</td>
+                    <td>Dễ sử dụng, giá thành rẻ</td>
+                    <td>Cần chú ý khi lật heo để tránh bị bỏng</td>
+                  </tr>
+                  <tr>
+                    <td><strong>Móc treo</strong></td>
+                    <td>Treo heo lên lò quay, phù hợp với các loại lò có thiết
+                      kế móc treo</td>
+                    <td>Móc phần đầu heo vào móc treo trên lò quay</td>
+                    <td>Giúp heo quay đều, không bị cháy xém</td>
+                    <td>Cần lựa chọn móc treo phù hợp với kích thước heo</td>
+                  </tr>
+                  <tr>
+                    <td><strong>Giá đỡ</strong></td>
+                    <td>Đỡ khay nướng, giúp thoát mỡ thừa hiệu quả</td>
+                    <td>Đặt giá đỡ bên dưới khay nướng</td>
+                    <td>Giúp món quay giòn ngon hơn, dễ vệ sinh</td>
+                    <td>Chiếm diện tích trong lò quay</td>
+                  </tr>
+                  <tr>
+                    <td><strong>Khay hứng mỡ</strong></td>
+                    <td>Hứng mỡ thừa chảy ra trong quá trình quay, giúp lò quay
+                      sạch sẽ</td>
+                    <td>Đặt khay hứng mỡ bên dưới heo quay</td>
+                    <td>Giúp lò quay sạch sẽ, dễ dàng vệ sinh</td>
+                    <td>Cần chú ý đổ mỡ thường xuyên để tránh tràn</td>
+                  </tr>
+                  <tr>
+                    <td><strong>Bàn chải</strong></td>
+                    <td>Vệ sinh lò quay sau khi sử dụng</td>
+                    <td>Dùng bàn chải chà rửa các vết bẩn trong lò</td>
+                    <td>Giúp vệ sinh lò quay nhanh chóng, hiệu quả</td>
+                    <td>Cần lựa chọn bàn chải có chất liệu phù hợp</td>
+                  </tr>
+                  <tr>
+                    <td><strong>Dụng cụ cạo mỡ</strong></td>
+                    <td>Cạo sạch các vết mỡ bám cứng đầu trong lò quay</td>
+                    <td>Dùng dụng cụ cạo mỡ cạo sạch các vết mỡ bám trên thành
+                      lò</td>
+                    <td>Loại bỏ hiệu quả các vết mỡ cứng đầu</td>
+                    <td>Cần sử dụng cẩn thận để tránh làm xước lò</td>
+                  </tr>
+                  <tr>
+                    <td><strong>Motor quay</strong></td>
+                    <td>Giúp heo tự động xoay đều trong quá trình quay, tiết
+                      kiệm thời gian và công sức</td>
+                    <td>Lắp đặt motor quay theo hướng dẫn của nhà sản xuất</td>
+                    <td>Giúp heo quay đều, đẹp mắt, tiết kiệm thời gian</td>
+                    <td>Giá thành cao hơn so với các loại phụ kiện khác</td>
+                  </tr>
+                  <tr>
+                    <td><strong>Bộ điều khiển nhiệt độ</strong></td>
+                    <td>Kiểm soát nhiệt độ lò quay chính xác, giúp món ăn chín
+                      đều, thơm ngon</td>
+                    <td>Cài đặt nhiệt độ mong muốn trên bộ điều khiển</td>
+                    <td>Giúp món ăn chín đều, thơm ngon, tránh tình trạng cháy
+                      khét</td>
+                    <td>Giá thành cao</td>
+                  </tr>
+                </tbody>
+              </table>
+            </figure>
+            <h2 class="wp-block-heading">Kinh nghiệm chọn mua phụ kiện lò quay
+              heo</h2>
+            <p>Để lựa chọn được&nbsp;<strong>phụ kiện lò quay heo</strong>&nbsp;phù
+              hợp, bạn cần lưu ý một số yếu tố sau:</p>
+            <h3 class="wp-block-heading">Lựa chọn phụ kiện phù hợp với loại lò
+              quay heo (gas, điện, than)</h3>
+            <p>Mỗi loại lò quay heo sẽ có thiết kế và kích thước khác nhau, do
+              đó bạn cần&nbsp;<strong>lựa chọn phụ kiện phù hợp</strong>&nbsp;để
+              đảm bảo tính tương thích và hiệu quả sử dụng.</p>
+            <h3 class="wp-block-heading">Xác định nhu cầu sử dụng và mục đích sử
+              dụng phụ kiện</h3>
+            <p>Bạn cần xác định rõ&nbsp;<strong>nhu cầu sử dụng</strong>&nbsp;của
+              mình là gì,&nbsp;<strong>sử dụng phụ kiện</strong>&nbsp;cho mục
+              đích gì để lựa chọn được sản phẩm phù hợp.</p>
+            <h3 class="wp-block-heading">Lựa chọn chất liệu phụ kiện: Inox, thép
+              không gỉ,...</h3>
+            <p>Nên ưu tiên chọn&nbsp;<strong>phụ kiện</strong>&nbsp;được làm từ
+              các&nbsp;<strong>chất liệu bền bỉ</strong>, chịu nhiệt tốt,&nbsp;<strong>an
+                toàn vệ sinh thực phẩm</strong>&nbsp;như&nbsp;<strong>inox 304</strong>,&nbsp;<strong>thép
+                không gỉ</strong>.</p>
+            <h3 class="wp-block-heading">Chú ý đến kích thước phụ kiện phù hợp
+              với lò quay heo</h3>
+            <p><strong>Kích thước phụ kiện</strong>&nbsp;cần&nbsp;<strong>phù
+                hợp với kích thước lò quay heo</strong>&nbsp;để đảm bảo tính
+              thẩm mỹ và hiệu quả sử dụng.</p>
+            <h3 class="wp-block-heading">Tìm hiểu thương hiệu, giá cả và chế độ
+              bảo hành</h3>
+            <p>Nên chọn&nbsp;<strong>mua phụ kiện</strong>&nbsp;của các&nbsp;<strong>thương
+                hiệu uy tín</strong>, có nguồn gốc rõ ràng,&nbsp;<strong>chế độ
+                bảo hành chu đáo</strong>. So sánh giá cả từ nhiều nhà cung cấp
+              để có được mức giá tốt nhất.</p>
+            <h2 class="wp-block-heading">Cách sử dụng và bảo quản phụ kiện lò
+              quay heo</h2>
+            <p>Mỗi loại&nbsp;<strong>phụ kiện </strong>sẽ có cách sử dụng khác
+              nhau. Bạn cần đọc kỹ hướng dẫn sử dụng của nhà sản xuất trước khi
+              dùng.</p>
+            <h3 class="wp-block-heading">Mẹo vệ sinh và bảo quản phụ kiện luôn
+              bền đẹp</h3>
+            <ul class="wp-block-list">
+              <li><strong>Vệ sinh phụ kiện</strong>&nbsp;ngay sau khi sử dụng
+                bằng nước rửa chén và dụng cụ vệ sinh chuyên dụng.</li>
+              <li><strong>Bảo quản phụ kiện</strong>&nbsp;ở nơi khô ráo, thoáng
+                mát, tránh ánh nắng trực tiếp.</li>
+              <li><strong>Thường xuyên kiểm tra</strong>&nbsp;tình trạng của phụ
+                kiện để kịp thời thay thế khi cần thiết.</li>
+            </ul>
+            <h2 class="wp-block-heading">Kết luận</h2>
+            <p><strong>Phụ kiện lò quay heo</strong>&nbsp;tuy nhỏ nhưng lại
+              có&nbsp;<strong>vai trò vô cùng quan trọng</strong>, giúp&nbsp;<strong>nâng
+                cao hiệu quả sử dụng lò</strong>, mang đến những&nbsp;<strong>món
+                quay thơm ngon</strong>, hấp dẫn và&nbsp;<strong>đảm bảo an toàn</strong>&nbsp;cho
+              người dùng. Hãy&nbsp;<strong>đầu tư sử dụng phụ kiện lò quay heo</strong>&nbsp;để
+              có được những <strong>trải nghiệm nấu nướng tuyệt vời</strong>&nbsp;nhất
+              và thỏa sức sáng tạo những món ăn ngon cho gia đình và bạn bè.</p>
+          </div>
+        </div>
+      </section>
+      <!-- End Categories of The Month -->
+      <!-- Start Featured Product -->
+      <section class="bg-light">
+        <div class="container py-5">
+          <div class="row text-center py-3">
+            <div class="col-lg-6 m-auto">
+              <p class="h2" style="text-align: center;"><strong>Social Share</strong></p>
+            </div>
+            <div style="text-align: center;"> <a href="#" target="_blank"><i class="fab fa-facebook"></i></a>&nbsp;
+              <a href="#" target="_blank"><i class="fab fa-twitter"></i></a>&nbsp;
+              <a href="#" target="_blank"><i class="fab fa-youtube"></i></a>&nbsp;
+              <a href="#" target="_blank"><i class="fab fa-instagram"></i></a>
+              &nbsp;<a href="#" target="_blank"><i class="fab fa-linkedin"></i></a>&nbsp;
+              <a href="#" target="_blank"><i class="fab fa-pinterest"></i></a> </div>
+            <br>
+          </div>
+          <p class="h2" style="text-align: left;"> <strong>Bài viết liên quan</strong></p>
+          <ul class="list">
+            <li style="text-align: left;"><a href="lo-quay-heo-bang-than.html">Lò
+                quay heo bằng than<br>
+              </a></li>
+            <li style="text-align: left;"><a href="lo-quay-heo-bang-dien.html">Máy
+                quay heo bằng điện<br>
+              </a></li>
+            <li style="text-align: left;"><a href="lo-quay-heo-bang-gas.html">Lò
+                quay heo sử dụng gas<br>
+              </a></li>
+            <li style="text-align: left;"><a href="phu-kien-lo-quay-heo.html">Phụ
+                kiện lò quay lợn<br>
+              </a></li>
+            <li style="text-align: left;"><a href="cach-chon-mua-lo-quay-heo.html">Cách
+                chọn mua lò quay heo<br>
+              </a></li>
+            <li style="text-align: left;"><a href="loi-thuong-gap-khi-su-dung-lo-quay-heo.html">Lỗi
+                thường gặp khi sử dụng lò quay heo</a></li>
+            <li style="text-align: left;"><a href="mon-an-ngon-tu-heo-quay.html">Những
+                món ngon ăn từ heo quay</a></li>
+          </ul>
+          <br>
+          <p class="h2" style="text-align: center;"><strong>Comment</strong></p>
+          <form action="#" class="form">
+            <div class="row">
+              <div class="col-sm-6 col-xs-6">
+                <div class="form-group" style="text-align: center;"> <label class="control-label">Tên</label>
+                  <input name="name" class="form-control" type="text"> </div>
+              </div>
+              <div class="col-sm-6 col-xs-6">
+                <div class="form-group" style="text-align: center;"> <label class="control-label">Email</label>
+                  <input name="email" class="form-control" type="email"> </div>
+              </div>
+            </div>
+            <div class="form-group" style="text-align: left;"> <label class="control-label">Message</label>
+              <textarea name="comment" class="form-control" rows="10" autocomplete="off"></textarea>
+            </div>
+            <div style="text-align: center;"><button type="submit" class="section-btn btn btn-primary">Gửi</button></div>
+          </form>
+        </div>
+      </section>
+      <!-- End Featured Product -->
+      <!-- Start Footer -->
+      <footer class="bg-dark" id="tempaltemo_footer">
+        <div class="container">
+          <div class="row">
+            <div class="col-md-4 pt-5">
+              <p class="h2 text-success border-bottom pb-3 border-light logo">Phú
+                Thịnh Machine</p>
+              <ul class="list-unstyled text-light footer-link-list">
+                <li> <i class="fas fa-map-marker-alt fa-fw"></i> Km số 7 , QL
+                  13 (Đối diện Lottemart Thuận An), Bình Hoà, Thuận An, Bình
+                  Dương </li>
+                <li> <i class="fa fa-phone fa-fw"></i> <a class="text-decoration-none"
+                    href="#">0938.23.3456</a> </li>
+                <li> <i class="fa fa-envelope fa-fw"></i> <a class="text-decoration-none"
+                    href="mailto:#">congnghemayphuthinh@gmail.com</a> </li>
+              </ul>
+            </div>
+            <div class="col-md-4 pt-5">
+              <p class="h2 text-light border-bottom pb-3 border-light">Chăm Sóc
+                Khách Hàng</p>
+              <!-- Này thích thì thêm -->
+              <ul class="list-unstyled text-light footer-link-list">
+                <li>Hotline: 0938 23 3456</li>
+                <li>CSKH: 0939 777 859</li>
+                <li>Kỹ Thuật: 0939 777 859</li>
+              </ul>
+            </div>
+            <div class="col-md-4 pt-5">
+              <p class="h2 text-light border-bottom pb-3 border-light">Thông Tin</p>
+              <ul class="list-unstyled text-light footer-link-list">
+                <li><a class="text-decoration-none" href="index.html">Trang Chủ</a></li>
+                <li><a class="text-decoration-none" href="about.html">Giới Thiệu</a></li>
+                <li><a class="text-decoration-none" href="#">Chính Sách Và Điều
+                    Khoản</a></li>
+                <li><a class="text-decoration-none" href="contact.html">Liên Hệ</a></li>
+              </ul>
+            </div>
+          </div>
+          <div class="row text-light mb-4">
+            <div class="col-12 mb-3">
+              <div class="w-100 my-3 border-top border-light"></div>
+            </div>
+            <div class="col-auto me-auto">
+              <ul class="list-inline text-left footer-icons">
+                <li class="list-inline-item border border-light rounded-circle text-center">
+                  <br>
+                </li>
+                <li class="list-inline-item border border-light rounded-circle text-center">
+                  <br>
+                </li>
+                <li class="list-inline-item border border-light rounded-circle text-center">
+                  <br>
+                </li>
+                <li class="list-inline-item border border-light rounded-circle text-center">
+                  <br>
+                </li>
+              </ul>
+            </div>
+            <div class="col-auto"> <label class="sr-only" for="subscribeEmail">Email
+                address</label>
+              <div class="input-group mb-2"> <input class="form-control bg-dark border-light"
+                  id="subscribeEmail" placeholder="Email address" type="text">
+                <div class="input-group-text btn-success text-light">Đăng Ký</div>
+              </div>
+            </div>
+          </div>
+        </div>
+        <div class="w-100 bg-black py-3">
+          <!-- Thay Company Name -->
+          <div class="container">
+            <div class="row pt-2">
+              <div class="col-12">
+                <p class="text-left text-light"> Copyright © 2024 Phú Thịnh
+                  Machine</p>
+              </div>
+            </div>
+          </div>
+        </div>
+      </footer>
+      <!-- End Footer -->
+      <!-- Start Script -->
+      <script src="assets/js/jquery-1.11.0.min.js"></script>
+      <script src="assets/js/jquery-migrate-1.2.1.min.js"></script>
+      <script src="assets/js/bootstrap.bundle.min.js"></script>
+      <script src="assets/js/templatemo.js"></script>
+      <script src="assets/js/custom.js"></script>
+      <!-- End Script --> </div>
+  </body>
+</html>
